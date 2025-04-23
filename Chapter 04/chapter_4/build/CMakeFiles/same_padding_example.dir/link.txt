@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/same_padding_example.dir/src/same_padding_example.cpp.o -o same_padding_example 

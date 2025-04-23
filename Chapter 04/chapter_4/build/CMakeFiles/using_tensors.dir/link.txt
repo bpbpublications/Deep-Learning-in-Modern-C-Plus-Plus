@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/using_tensors.dir/src/using_tensors.cpp.o -o using_tensors 

@@ -1,1 +1,0 @@
-/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/tensor_convolutions.dir/src/tensor_convolutions.cpp.o -o tensor_convolutions 
